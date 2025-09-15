@@ -34,7 +34,7 @@ Saat memulai program pengguna akan di berikan pilihan menu, di menu tersebut ter
 
 ## ------------------------------------------------------------------------------------
 
-- Setelah itu jika pengguna memilih angka "3" maka pengguna akan masuk ke pilihan update data paket, yang dimana pengguna dapat melakukan perubahan data jika terdapat kesalahan pada data yang telah di tambahkan sebelumnya.
+- Setelah itu jika pengguna memilih angka "3" maka pengguna akan masuk ke pilihan update data paket, yang dimana pengguna dapat melakukan perubahan data jika terdapat kesalahan pada data yang telah di tambahkan sebelumnya. pengguna dapat memilih bagian mana saja yang mau di update dari nomor 1 sampai 11
 
 <img width="461" height="760" alt="image" src="https://github.com/user-attachments/assets/952b4e99-67f2-47fd-8861-4dbad6d59f2d" />
 <img width="377" height="885" alt="Cuplikan layar 2025-09-15 190357" src="https://github.com/user-attachments/assets/5c3d4048-16bf-41bb-9b6e-c91d49c431ff" />
